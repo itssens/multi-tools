@@ -55,4 +55,4 @@ Because I don't want to waste time since this project is free anyways
 # Developers
 [Sens](https://github.com/itssens/)
 
-Damn I'm pretty lonely.
+Damn, I'm pretty lonely.
