@@ -1,5 +1,5 @@
 # Preview
-![image](https://media.discordapp.net/attachments/1021828286541733978/1060661854852104262/image.png)
+![image](https://media.discordapp.net/attachments/1023911532108709898/1062412459878658130/image.png)
 
 [Releases](https://github.com/itsens/multi-tools/releases/)
 # Multi-Tools
