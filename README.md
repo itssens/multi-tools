@@ -52,5 +52,7 @@ Because I don't want to waste time since this project is free anyways
 
 3. So you can't just (instantly) obfusocate and resell it :]
 
-# Main Developers
+# Developers
 [Sens](https://github.com/itssens/)
+
+Damn I'm pretty lonely.
