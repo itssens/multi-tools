@@ -42,7 +42,7 @@ this project is open source so you can see how easy it is to hack/crack somethin
 |🟢pc fucker                |              |                                                                          |                   |
 |🟢Discord Account Proxy Checker               |              |                                                                          |                   |
 
-# BuT sNeE, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
+# BuT sEnS, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
 Because I don't want to waste time since this project is free anyways
 
 # Why isn't it only one file?
