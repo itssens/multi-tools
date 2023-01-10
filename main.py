@@ -9,7 +9,7 @@ from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
 import ctypes
 
-ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.1 | https://github.com/itssens/multi-tools ")
+ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.0 | https://github.com/itssens/multi-tools ")
 
 class bcolors:
     HEADER = '\033[95m'
