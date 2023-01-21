@@ -22,6 +22,6 @@ def clearcmd():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def tuto():
-    print("currently being made....")
+    print("I decided you need to open usage.txt for help")
     print(bcolors.OKBLUE + "if you want to know how to use the program, open usage.txt")
     time.sleep(5.00)
